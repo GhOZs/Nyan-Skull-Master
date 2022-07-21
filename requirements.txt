@@ -1,0 +1,9 @@
+tgcrypto
+pyrogram
+tgcrypto
+yt-dlp
+py7zr
+aiohttp
+requests
+yarl
+bs4
